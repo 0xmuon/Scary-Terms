@@ -5,7 +5,13 @@ What Is an Epoch? The number of epochs is a hyperparameter that defines the numb
 <br>
 Any node participating in the Filecoin network should provide the chain verification service as a minimum.
 <br>
-
+_____________________________________________________________________________________________________________________________________________________________
+LaTeX is a typesetting system commonly used for creating documents, especially in the fields of academia and scientific research. LaTeX documents are written in plain text and then compiled into a formatted document. Here's an overview of how to create LaTeX documents, including some common commands and elements:
+<br>
+Document Structure:
+<br>
+Start with a preamble, which includes document class, packages, and settings.
+Use the \begin{document} and \end{document} commands to enclose the main content of your document.
 <br>
 
 <br>
