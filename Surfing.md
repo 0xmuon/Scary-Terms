@@ -15,11 +15,11 @@ Use the \begin{document} and \end{document} commands to enclose the main content
 <br>
 
 <br>
-
+For image hosting: https://imgbb.com/
 <br>
-
+For image background removal: https://www.pixelcut.ai/t/background-remover
 <br>
-
+For encryption depiction: https://emn178.github.io/online-tools/sha256.html 
 <br>
 
 <br>
